@@ -1,0 +1,8 @@
+{
+  "name": "notes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "4cc65aea"
+}
